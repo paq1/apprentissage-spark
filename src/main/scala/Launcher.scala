@@ -1,7 +1,7 @@
-import rdd.ExempleRddGroupBy
+import rdd.SimpleRddUnion
 
 object Launcher extends App {
 
-  ExempleRddGroupBy.run()
+  SimpleRddUnion.run
 
 }
